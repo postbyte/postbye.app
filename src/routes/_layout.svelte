@@ -18,7 +18,7 @@
   <footer>
     <nav>
       <div>
-        <a href="https://github.com/atav1k/sapper-fortune-template">Github</a>
+        <a href="https://github.com/postbyte">Github</a>
         <a href="/">&copy; {new Date().getFullYear()}</a>
       </div>
     </nav>

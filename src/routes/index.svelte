@@ -7,11 +7,16 @@
 </style>
 
 <svelte:head>
-  <title>Sapper Fortune Template</title>
+  <title>postbyte</title>
 </svelte:head>
 
 <article>
   <div>
-    <h1>Welcome to your Sapper site.</h1>
+    <ol>
+      <li>Is a public benefit cooperative that:</li>
+      <li>Builds humane and affordable products for everyday technology needs.</li>
+      <li>Fosters a labor collective of makers.</li>
+      <li>Supports educational causes that increase access to industry.</li>
+    </ol>
   </div>
 </article>

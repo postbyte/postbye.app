@@ -1,3 +1,27 @@
 :root {
+  --body-color: var(--black);
+  --body-font-size: 2rem;
+  --line-height: 2.5rem;
+
+  --button-font-size: 1.5rem;
+  --button-padding: 1.5rem;
+  --button-font-weight: 500;
+
+  --component-border-width: 0.25rem;
+  --component-padding: 1rem;
+
   --link-color: var(--indigo);
+  --headings-font-family: 'DM Mono', monospace;
+  --font-family: 'DM Sans', sans-serif;
+
+  --h1: var(--fonts-10);
+  --h2: var(--fonts-8);
+  --h3: var(--fonts-6);
+  --h4: var(--fonts-5);
+  --h5: var(--fonts-2);
+  --h6: var(--fonts-1);
+}
+
+body {
+  background-color: var(--gray-2);
 }
